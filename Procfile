@@ -1,0 +1,1 @@
+web: java -jar build/lib/aymat-1.0-SNAPSHOT.jar
